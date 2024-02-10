@@ -1,4 +1,3 @@
-import pyfiglet
-import random
-from colorama import Fore, Style
-import time
+pip install pyfiglet
+
+pip install colorama
